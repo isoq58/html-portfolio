@@ -1,0 +1,19 @@
+.head-section{
+    background-color: rgb(203, 252, 252);
+}
+
+.name{
+    font-size: 4rem;
+}
+
+#footer{
+    background-color: aqua;
+}
+
+#head-section h1{
+    font-family: 'Fuggles', cursive;
+}
+
+#head-section h3{
+    font-family: 'Inclusive Sans', sans-serif;
+}
